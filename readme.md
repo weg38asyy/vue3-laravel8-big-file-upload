@@ -1,4 +1,23 @@
-## 目的：
+
+<p align="center">
+<a href="https://github.com/vuejs/vue">
+    <img src="https://img.shields.io/badge/vue-3.2.16-brightgreen.svg" alt="vue">
+  </a>
+  <a href="https://github.com/ElemeFE/element">
+    <img src="https://img.shields.io/badge/element--plus-1.1.0-brightgreen.svg" alt="element-ui">
+  </a>
+  <a href="https://github.com/ElemeFE/element">
+    <img src="https://img.shields.io/badge/vite-2.6.4-brightgreen.svg" alt="element-ui">
+  </a>
+  <a href="https://github.com/ElemeFE/element">
+    <img src="https://img.shields.io/badge/laravel/framework-8.6.5-blue.svg" alt="element-ui">
+  </a>
+  <a href="https://github.com/lin-xin/vue-manage-system/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="license">
+  </a>
+</p>
+
+## 🎯目的：
 大檔案上傳時，一旦遇到網路不穩或斷線，就會導致檔案需要全部重新上傳，該項目透過Vue3 + Laravel8實現斷點續傳，提供學習及參考！
 
 ---
