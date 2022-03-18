@@ -69,6 +69,7 @@
 
 瀏覽器：Chrome96
 伺服器：Apache2.4.32
+PHP：Vesion 7.4+
 傳輸協議：http1
 
 ---
