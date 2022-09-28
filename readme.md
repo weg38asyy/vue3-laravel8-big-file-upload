@@ -144,7 +144,7 @@ const EnvConfig = {
 
 ---
 
-### 方式二（目前採用）：配合履約系統版控，邏輯為針對檔名進行 Hash 加密
+### 方式二（目前採用）：針對檔名進行 Hash 加密
 
 （下圖為改善後）
 ![](https://i.imgur.com/W2deuTH.png)
